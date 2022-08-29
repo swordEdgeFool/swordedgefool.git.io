@@ -1,0 +1,5 @@
+pages:
+  - {name: '关于这个主题!', url: 'about.html'}
+  - {name: '关于交流交流?', url: 'contact.html'}
+  - {name: '关于博客内容!', url: 'archive.html'}
+  #- {name: 'Get YAMT', url: 'https://github.com/swordEdgeFool'}
